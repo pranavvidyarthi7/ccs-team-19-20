@@ -1,0 +1,23 @@
+{
+  "name": "ccs-team-19-20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavvidyarthi7/ccs-team-19-20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavvidyarthi7/ccs-team-19-20/issues"
+  },
+  "homepage": "https://pranavvidyarthi7.github.io/ccs-team-19",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
